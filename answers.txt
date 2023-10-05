@@ -1,0 +1,8 @@
+1a. $ bash compiley.sh program.cpp hello
+1b. comiley.sh compiles the program and outputs the executable name for the program.
+2a. no you can't compile using the same command, but you could use quotes to specify the ffile name. 
+2b. the problem is that you changed the name of the program so now it doesn't see a valid program name.
+3a. no it doesn't work
+3b. it is trying to compile a file called my instead of my program
+4a. yes it does work
+4b. because now it processes it as a single entity including whitespaces.  
